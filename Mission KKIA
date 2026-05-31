@@ -1,4 +1,4 @@
-bnimport asyncio
+import asyncio
 import random
 from mavsdk import System
 from mavsdk.mission import MissionItem, MissionPlan
